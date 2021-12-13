@@ -83,3 +83,8 @@ input:valid~label{
     color: #fff;
     background: #aaa;
 }
+.button:hover{
+    background: turquoise;
+    font-size: 18px;
+    transition: 0.3s ease all;
+}
